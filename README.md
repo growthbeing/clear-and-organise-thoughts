@@ -12,6 +12,6 @@
 
 - **Time management**: Having a structured schedule can help you manage your thoughts and ideas more effectively. Set aside specific times of the day for certain tasks and stick to your schedule as much as possible.
 
-- **Mind mapping**: Mind mapping is a visual way of organizing your thoughts and ideas. Start with a central idea and then branch out with sub-topics and details. This can help you see the connections between different ideas and make it easier to organize them. [[Know More]](brain-dumping.md)
+- **Mind mapping**: Mind mapping is a visual way of organizing your thoughts and ideas. Start with a central idea and then branch out with sub-topics and details. This can help you see the connections between different ideas and make it easier to organize them. [[Know More]](mind-mapping.md)
 
 Remember that everyone’s mind works differently, so you may need to experiment with different methods to find what works best for you.
