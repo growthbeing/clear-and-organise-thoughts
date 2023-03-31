@@ -1,4 +1,4 @@
-## Mind mapping
+## Mind mapping :brain:
 
 Mind mapping is a visual brainstorming technique used to organize and connect ideas. It involves creating a diagram that branches out from a central idea or concept, with related ideas and subtopics radiating outwards from it. Mind maps can be created on paper, whiteboards, or using digital tools.
 
