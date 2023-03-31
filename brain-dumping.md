@@ -1,4 +1,4 @@
-## Brain Dumping
+## Brain Dumping :brain: :memo:
 
 Brain dumping is the process of quickly writing down or typing out all of the thoughts, ideas, and information that are currently in your mind. It is a way of getting everything out of your head and onto paper or screen, so that you can organize and make sense of it later. Brain dumping can be a helpful tool for improving focus, reducing stress, and increasing productivity.
 
